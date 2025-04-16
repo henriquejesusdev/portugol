@@ -1,0 +1,14 @@
+INÍCIO
+
+    1 - Acordar
+    2 - Escovar os dentes
+    3 - Tomar café da manhã
+    4 - Estudar
+    5 - Almoçar
+    6 - Procurar emprego
+    7 - Estudar novamente
+    8 - Jantar
+    9 - Realizar entretenimento
+    10 - Dormir
+
+FIM
